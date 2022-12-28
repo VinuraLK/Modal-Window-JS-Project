@@ -1,0 +1,6 @@
+- I created this project to examine how modal windows work
+- a modal window will be displayed when clicked on a button
+- an overlay will be added when clicked on the button which will blur the backround around the modal window
+- modal window will be closed when the close button on the modal window is clicked
+- modal window will also be closed when clicked outisde of the modal window (AKA the overlay)
+- carrying out both the steps above will also remove the overlay as well.
